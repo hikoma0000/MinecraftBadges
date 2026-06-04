@@ -12,7 +12,7 @@
 ## Requires
 
 
-<a href="https://modrinth.com/mod/architectury-api"><img alt="architectury-api"  src="https://github.com/hikoma0000/MinecraftBadges/blob/main/requires/requires_architectury_api.svg"></a>
+<a href="https://modrinth.com/mod/architectury-api"><img alt="architectury-api"  src="https://github.com/hikoma0000/MinecraftBadges/blob/main/requires/requires_architectury_api.svg?raw=true"></a>
 
 
 
